@@ -1,0 +1,83 @@
+---
+booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
+title: Proceedings of Machine Learning Research
+shortname: L4DC
+year: '2024'
+volume: '242'
+start: 2024-07-15
+end: 2024-07-17
+published: 2024-06-11
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: l4dc2024
+month: 0
+tex_title: Proceedings of the 6th Annual Learning for Dynamics & Control Conference
+cycles: false
+bibtex_editor: Abate, Alessandro and Margellos, Kostas and Papachristodoulou, Antonis
+editor:
+- given: Alessandro
+  family: Abate
+- given: Kostas
+  family: Margellos
+- given: Antonis
+  family: Papachristodoulou
+description: |
+  Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
+    Held in University of Oxford, Oxford, UK on 15-17 July 2024
+
+  Published as Volume 242 by the Proceedings of Machine Learning Research on 11 June 2024.
+
+  Volume Edited by:
+    Alessandro Abate
+    Kostas Margellos
+    Antonis Papachristodoulou
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 15--17 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v242"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v242
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v242
+email: ''
+conference:
+  name: 6th Annual Learning for Dynamics \& Control Conference
+  url: https://l4dc.web.ox.ac.uk/
+  location: University of Oxford, Oxford, UK
+  dates:
+  - 2024-07-15
+  - 2024-07-16
+  - 2024-07-17
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v242/l4dc2024.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v242/l4dc2024.bib
