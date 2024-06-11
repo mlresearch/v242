@@ -1,7 +1,6 @@
 ---
 title: Residual Learning and Context Encoding for Adaptive Offline-to-Online Reinforcement
   Learning
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: Offline reinforcement learning (RL) allows learning sequential behavior
   from fixed datasets. Since offline datasets do not cover all possible situations,
   many methods collect additional data during online fine-tuning to improve performance.

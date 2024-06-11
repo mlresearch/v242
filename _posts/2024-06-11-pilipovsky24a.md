@@ -1,6 +1,5 @@
 ---
 title: Data-Driven Robust Covariance Control for Uncertain Linear Systems
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: The theory of covariance control and covariance steering (CS) deals with
   controlling the dispersion of trajectories of a dynamical system, under the implicit
   assumption that accurate prior knowledge of the system being controlled is available.

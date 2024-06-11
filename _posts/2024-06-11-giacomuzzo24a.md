@@ -1,7 +1,6 @@
 ---
 title: Lagrangian Inspired Polynomial Estimator for black-box learning and control
   of underactuated systems
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: The Lagrangian Inspired Polynomial (LIP) estimator (Giacomuzzo et al., 2023)
   is a black-box estimator based on Gaussian Process Regression, recently presented
   for the inverse dynamics identi- fication of Lagrangian systems. It relies on a

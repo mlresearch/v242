@@ -1,7 +1,6 @@
 ---
 title: Strengthened stability analysis of discrete-time Lurie systems involving ReLU
   neural networks
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: This paper addresses the stability analysis of a discrete-time (DT) Lurie
   system featuring a static repeated ReLU nonlinearity. Such systems often arise in
   the analysis of recurrent neural networks and other neural feedback loops. Custom

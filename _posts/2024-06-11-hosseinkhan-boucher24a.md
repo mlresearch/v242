@@ -1,7 +1,6 @@
 ---
 title: Increasing Information for Model Predictive Control with Semi-Markov Decision
   Processes
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: Recent works in Learning-Based Model Predictive Control of dynamical systems
   show impressive sample complexity performances using criteria from Information Theory
   to accelerate the learning procedure. However, the sequential exploration opportunities

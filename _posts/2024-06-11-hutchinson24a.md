@@ -1,6 +1,5 @@
 ---
 title: Safe Online Convex Optimization with Multi-Point Feedback
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: Motivated by the stringent safety requirements that are often present in
   real-world applications, we study a safe online convex optimization setting where
   the player needs to simultaneously achieve sublinear regret and zero constraint

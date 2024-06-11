@@ -1,7 +1,6 @@
 ---
 title: 'Distributed On-the-Fly Control of Multi-Agent Systems With Unknown Dynamics:
   Using Limited Data to Obtain Near-optimal Control'
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: We propose a method called ODMU for “on-the-fly control of distributed multi-agent
   systems with unknown nonlinear dynamics” and with (a)synchronous communication between
   the agents where data from a single finite-horizon trajectory is used, possibly

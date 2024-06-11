@@ -1,6 +1,5 @@
 ---
 title: Hamiltonian GAN
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: A growing body of work leverages the Hamiltonian formalism as an inductive
   bias for physically plausible neural network based video generation. The structure
   of the Hamiltonian ensures conservation of a learned quantity (e.g., energy) and

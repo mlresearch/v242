@@ -1,6 +1,5 @@
 ---
 title: Bounded Robustness in Reinforcement Learning via Lexicographic Objectives
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: 'Policy robustness in Reinforcement Learning may not be desirable at any
   cost: the alterations caused by robustness requirements from otherwise optimal policies
   should be explainable, quantifiable and formally verifiable. In this work we study

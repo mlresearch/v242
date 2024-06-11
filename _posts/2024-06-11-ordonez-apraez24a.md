@@ -1,7 +1,6 @@
 ---
 title: 'Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven
   Koopman Modelling'
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: We introduce the use of harmonic analysis to decompose the state space of
   symmetric robotic systems into orthogonal isotypic subspaces. These are lower-dimensional
   spaces that capture distinct, symmetric, and synergistic motions. For linear dynamics,

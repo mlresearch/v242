@@ -1,6 +1,5 @@
 ---
 title: Inverse Optimal Control as an Errors-in-Variables Problem
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: Inverse optimal control (IOC) is about estimating an unknown objective of
   interest given its optimal control sequence. However, truly optimal demonstrations
   are often difficult to obtain, e.g., due to human errors or inaccurate measurements.

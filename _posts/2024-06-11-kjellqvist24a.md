@@ -1,6 +1,5 @@
 ---
 title: Minimax dual control with finite-dimensional information state
-booktitle: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
 abstract: This article considers output-feedback control of systems where the function
   mapping states to measurements has a set-valued inverse. We show that if the set
   has a bounded number of elements, then minimax dual control of such systems admits
