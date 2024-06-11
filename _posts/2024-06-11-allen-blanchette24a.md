@@ -33,7 +33,7 @@ author:
   family: Allen-Blanchette
 date: 2024-06-11
 address:
-container-title: Proceedings of the 6th Annual Learning for Dynamics \& Control Conference
+container-title: Proceedings of the 6th Annual Learning for Dynamics & Control Conference
 volume: '242'
 genre: inproceedings
 issued:
