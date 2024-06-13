@@ -20,10 +20,10 @@ publisher: PMLR
 issn: 2640-3498
 id: allen-blanchette24a
 month: 0
-tex_title: "{Hamiltonian GAN}"
-firstpage: 1
-lastpage: 13
-page: 1-13
+tex_title: "{H}amiltonian {GAN}"
+firstpage: 1662
+lastpage: 1674
+page: 1662-1674
 order: 1
 cycles: false
 bibtex_author: Allen-Blanchette, Christine

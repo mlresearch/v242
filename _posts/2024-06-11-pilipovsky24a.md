@@ -1,5 +1,5 @@
 ---
-title: Data-Driven Robust Covariance Control for Uncertain Linear Systems
+title: Data-driven robust covariance control for uncertain linear systems
 abstract: The theory of covariance control and covariance steering (CS) deals with
   controlling the dispersion of trajectories of a dynamical system, under the implicit
   assumption that accurate prior knowledge of the system being controlled is available.
@@ -20,10 +20,10 @@ publisher: PMLR
 issn: 2640-3498
 id: pilipovsky24a
 month: 0
-tex_title: "{Data-Driven Robust Covariance Control for Uncertain Linear Systems}"
-firstpage: 1
-lastpage: 12
-page: 1-12
+tex_title: "Data-driven robust covariance control for uncertain linear systems"
+firstpage: 667
+lastpage: 678
+page: 667-678
 order: 1
 cycles: false
 bibtex_author: Pilipovsky, Joshua and Tsiotras, Panagiotis

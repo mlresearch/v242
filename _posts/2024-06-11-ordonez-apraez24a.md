@@ -1,6 +1,6 @@
 ---
-title: 'Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven
-  Koopman Modelling'
+title: 'Dynamics harmonic analysis of robotic systems: Application in data-driven
+  Koopman modelling'
 abstract: We introduce the use of harmonic analysis to decompose the state space of
   symmetric robotic systems into orthogonal isotypic subspaces. These are lower-dimensional
   spaces that capture distinct, symmetric, and synergistic motions. For linear dynamics,
@@ -18,11 +18,11 @@ publisher: PMLR
 issn: 2640-3498
 id: ordonez-apraez24a
 month: 0
-tex_title: "{Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven
-  Koopman Modelling}"
-firstpage: 1
-lastpage: 12
-page: 1-12
+tex_title: "Dynamics harmonic analysis of robotic systems: {A}pplication in data-driven
+  {K}oopman modelling"
+firstpage: 1318
+lastpage: 1329
+page: 1318-1329
 order: 1
 cycles: false
 bibtex_author: Ordo\~{n}ez-Apraez, Daniel and Kostic, Vladimir and Turrisi, Giulio

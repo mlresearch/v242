@@ -1,5 +1,5 @@
 ---
-title: 'SpOiLer: Offline Reinforcement Learning using Scaled Penalties'
+title: 'SpOiLer: Offline reinforcement learning using scaled penalties'
 abstract: Offline Reinforcement Learning (RL) is a variant of off-policy learning
   where an optimal policy must be learned from a static dataset containing trajectories
   collected by an unknown behavior policy. In the offline setting, standard off-policy
@@ -21,10 +21,10 @@ publisher: PMLR
 issn: 2640-3498
 id: srinivasan24a
 month: 0
-tex_title: "{SpOiLer: Offline Reinforcement Learning using Scaled Penalties}"
-firstpage: 1
-lastpage: 14
-page: 1-14
+tex_title: "{SpOiLer}: {O}ffline reinforcement learning using scaled penalties"
+firstpage: 825
+lastpage: 838
+page: 825-838
 order: 1
 cycles: false
 bibtex_author: Srinivasan, Padmanaba and Knottenbelt, William J.

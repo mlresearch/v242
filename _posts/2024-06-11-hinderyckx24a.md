@@ -1,5 +1,5 @@
 ---
-title: Linearised Data-Driven LSTM-Based Control of Multi-Input HVAC Systems
+title: Linearised data-driven LSTM-based control of multi-input HVAC systems
 abstract: The pursuit of sustainability has paved the way for building management
   systems (BMSs) that can steer buildings in an energy-efficient way. In this article,
   a deep learning approach is proposed to control multi-input HVAC systems in order
@@ -27,10 +27,10 @@ publisher: PMLR
 issn: 2640-3498
 id: hinderyckx24a
 month: 0
-tex_title: "{Linearised Data-Driven LSTM-Based Control of Multi-Input HVAC Systems}"
-firstpage: 1
-lastpage: 13
-page: 1-13
+tex_title: "Linearised data-driven {LSTM}-based control of multi-input {HVAC} systems"
+firstpage: 117
+lastpage: 129
+page: 117-129
 order: 1
 cycles: false
 bibtex_author: Hinderyckx, Andreas and Guillaume, Florence
