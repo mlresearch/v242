@@ -19,7 +19,7 @@ tex_title: "Inverse optimal control as an errors-in-variables problem"
 firstpage: 375
 lastpage: 386
 page: 375-386
-order: 1
+order: 375
 cycles: false
 bibtex_author: Rickenbach, Rahel and Scampicchio, Anna and Zeilinger, Melanie N.
 author:
