@@ -1,6 +1,6 @@
 ---
-title: 'Distributed On-the-Fly Control of Multi-Agent Systems With Unknown Dynamics:
-  Using Limited Data to Obtain Near-optimal Control'
+title: 'Distributed on-the-fly control of multi-agent systems with unknown dynamics:
+  Using limited data to obtain near-optimal control'
 abstract: We propose a method called ODMU for “on-the-fly control of distributed multi-agent
   systems with unknown nonlinear dynamics” and with (a)synchronous communication between
   the agents where data from a single finite-horizon trajectory is used, possibly
@@ -27,11 +27,11 @@ publisher: PMLR
 issn: 2640-3498
 id: meshkat-alsadat24a
 month: 0
-tex_title: "{Distributed On-the-Fly Control of Multi-Agent Systems With Unknown Dynamics:
-  Using Limited Data to Obtain Near-optimal Control}"
-firstpage: 1
-lastpage: 12
-page: 1-12
+tex_title: "Distributed on-the-fly control of multi-agent systems with unknown dynamics:
+  {U}sing limited data to obtain near-optimal control"
+firstpage: 1440
+lastpage: 1451
+page: 1440-1451
 order: 1
 cycles: false
 bibtex_author: Meshkat Alsadat, Shayan and Baharisangari, Nasim and Xu, Zhe

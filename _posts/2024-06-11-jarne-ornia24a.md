@@ -1,5 +1,5 @@
 ---
-title: Bounded Robustness in Reinforcement Learning via Lexicographic Objectives
+title: Bounded robustness in reinforcement learning via lexicographic objectives
 abstract: 'Policy robustness in Reinforcement Learning may not be desirable at any
   cost: the alterations caused by robustness requirements from otherwise optimal policies
   should be explainable, quantifiable and formally verifiable. In this work we study
@@ -17,10 +17,10 @@ publisher: PMLR
 issn: 2640-3498
 id: jarne-ornia24a
 month: 0
-tex_title: "{Bounded Robustness in Reinforcement Learning via Lexicographic Objectives}"
-firstpage: 1
-lastpage: 14
-page: 1-14
+tex_title: "Bounded robustness in reinforcement learning via lexicographic objectives"
+firstpage: 954
+lastpage: 967
+page: 954-967
 order: 1
 cycles: false
 bibtex_author: Jarne Ornia, Daniel and Romao, Licio and Hammond, Lewis and Jr, Manuel

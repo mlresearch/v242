@@ -19,11 +19,11 @@ publisher: PMLR
 issn: 2640-3498
 id: richardson24a
 month: 0
-tex_title: "{Strengthened stability analysis of discrete-time Lurie systems involving
-  ReLU neural networks}"
-firstpage: 1
-lastpage: 13
-page: 1-13
+tex_title: "Strengthened stability analysis of discrete-time {L}urie systems involving
+  {ReLU} neural networks"
+firstpage: 209
+lastpage: 221
+page: 209-221
 order: 1
 cycles: false
 bibtex_author: Richardson, Carl and Turner, Matthew and Gunn, Steve and Drummond,

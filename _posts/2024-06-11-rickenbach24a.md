@@ -1,5 +1,5 @@
 ---
-title: Inverse Optimal Control as an Errors-in-Variables Problem
+title: Inverse optimal control as an errors-in-variables problem
 abstract: Inverse optimal control (IOC) is about estimating an unknown objective of
   interest given its optimal control sequence. However, truly optimal demonstrations
   are often difficult to obtain, e.g., due to human errors or inaccurate measurements.
@@ -15,10 +15,10 @@ publisher: PMLR
 issn: 2640-3498
 id: rickenbach24a
 month: 0
-tex_title: "{Inverse Optimal Control as an Errors-in-Variables Problem}"
-firstpage: 1
-lastpage: 12
-page: 1-12
+tex_title: "Inverse optimal control as an errors-in-variables problem"
+firstpage: 375
+lastpage: 386
+page: 375-386
 order: 1
 cycles: false
 bibtex_author: Rickenbach, Rahel and Scampicchio, Anna and Zeilinger, Melanie N.

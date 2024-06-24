@@ -18,10 +18,10 @@ publisher: PMLR
 issn: 2640-3498
 id: kjellqvist24a
 month: 0
-tex_title: "{Minimax dual control with finite-dimensional information state}"
-firstpage: 1
-lastpage: 13
-page: 1-13
+tex_title: "Minimax dual control with finite-dimensional information state"
+firstpage: 299
+lastpage: 311
+page: 299-311
 order: 1
 cycles: false
 bibtex_author: Kjellqvist, Olle

@@ -1,6 +1,6 @@
 ---
-title: Increasing Information for Model Predictive Control with Semi-Markov Decision
-  Processes
+title: Increasing information for model predictive control with semi-Markov decision
+  processes
 abstract: Recent works in Learning-Based Model Predictive Control of dynamical systems
   show impressive sample complexity performances using criteria from Information Theory
   to accelerate the learning procedure. However, the sequential exploration opportunities
@@ -15,11 +15,11 @@ publisher: PMLR
 issn: 2640-3498
 id: hosseinkhan-boucher24a
 month: 0
-tex_title: "{Increasing Information for Model Predictive Control with Semi-Markov
-  Decision Processes}"
-firstpage: 1
-lastpage: 15
-page: 1-15
+tex_title: "Increasing information for model predictive control with semi-{M}arkov
+  decision processes"
+firstpage: 1400
+lastpage: 1414
+page: 1400-1414
 order: 1
 cycles: false
 bibtex_author: Hosseinkhan Boucher, R\'{e}my and Douka, Stella and Semeraro, Onofrio

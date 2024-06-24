@@ -1,6 +1,6 @@
 ---
-title: 'Learning Soft Constrained MPC Value Functions: Efficient MPC Design and Implementation
-  providing Stability and Safety Guarantees'
+title: Learning soft constrained MPC value functions: Efficient MPC design and implementation
+  providing stability and safety guarantees
 abstract: 'Model Predictive Control (MPC) can be applied to safety-critical control
   problems, providing closed-loop safety and performance guarantees. Application of
   MPC requires solving an optimization problem at every sampling instant, making it
@@ -25,11 +25,11 @@ publisher: PMLR
 issn: 2640-3498
 id: chatzikiriakos24a
 month: 0
-tex_title: "{Learning Soft Constrained MPC Value Functions: Efficient MPC Design and
-  Implementation providing Stability and Safety Guarantees}"
-firstpage: 1
-lastpage: 12
-page: 1-12
+tex_title: "Learning soft constrained {MPC} value functions: {E}fficient {MPC} design and
+  implementation providing stability and safety guarantees"
+firstpage: 387
+lastpage: 398
+page: 387-398
 order: 1
 cycles: false
 bibtex_author: Chatzikiriakos, Nicolas and Wabersich, Kim Peter and Berkel, Felix

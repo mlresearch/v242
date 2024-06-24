@@ -1,5 +1,5 @@
 ---
-title: Safe Online Convex Optimization with Multi-Point Feedback
+title: Safe online convex optimization with multi-point feedback
 abstract: Motivated by the stringent safety requirements that are often present in
   real-world applications, we study a safe online convex optimization setting where
   the player needs to simultaneously achieve sublinear regret and zero constraint
@@ -18,10 +18,10 @@ publisher: PMLR
 issn: 2640-3498
 id: hutchinson24a
 month: 0
-tex_title: "{Safe Online Convex Optimization with Multi-Point Feedback}"
-firstpage: 1
-lastpage: 13
-page: 1-13
+tex_title: "Safe online convex optimization with multi-point feedback"
+firstpage: 168
+lastpage: 180
+page: 168-180
 order: 1
 cycles: false
 bibtex_author: Hutchinson, Spencer and Alizadeh, Mahnoosh

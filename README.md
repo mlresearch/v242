@@ -16,6 +16,7 @@ Published as Volume 242 by the Proceedings of Machine Learning Research on 11 Ju
 
 Volume Edited by:
   * Alessandro Abate
+  * Mark Cannon
   * Kostas Margellos
   * Antonis Papachristodoulou
 

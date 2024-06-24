@@ -1,6 +1,6 @@
 ---
-title: Residual Learning and Context Encoding for Adaptive Offline-to-Online Reinforcement
-  Learning
+title: Residual learning and context encoding for adaptive offline-to-online reinforcement
+  learning
 abstract: Offline reinforcement learning (RL) allows learning sequential behavior
   from fixed datasets. Since offline datasets do not cover all possible situations,
   many methods collect additional data during online fine-tuning to improve performance.
@@ -23,18 +23,18 @@ publisher: PMLR
 issn: 2640-3498
 id: nakhaeinezhadfard24a
 month: 0
-tex_title: "{Residual Learning and Context Encoding for Adaptive Offline-to-Online
-  Reinforcement Learning}"
-firstpage: 1
-lastpage: 15
-page: 1-15
+tex_title: "Residual learning and context encoding for adaptive offline-to-online
+  reinforcement learning"
+firstpage: 1107
+lastpage: 1121
+page: 1107-1121
 order: 1
 cycles: false
-bibtex_author: Nakhaeinezhadfard, Mohammadreza and Scannell, Aidan and Pajarinen,
+bibtex_author: Nakhaei, Mohammadreza and Scannell, Aidan and Pajarinen,
   Joni
 author:
 - given: Mohammadreza
-  family: Nakhaeinezhadfard
+  family: Nakhaei
 - given: Aidan
   family: Scannell
 - given: Joni

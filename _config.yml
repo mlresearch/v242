@@ -15,10 +15,12 @@ id: l4dc2024
 month: 0
 tex_title: Proceedings of the 6th Annual Learning for Dynamics & Control Conference
 cycles: false
-bibtex_editor: Abate, Alessandro and Margellos, Kostas and Papachristodoulou, Antonis
+bibtex_editor: Abate, Alessandro and Cannon, Mark and Margellos, Kostas and Papachristodoulou, Antonis
 editor:
 - given: Alessandro
   family: Abate
+- given: Mark
+  family: Cannon
 - given: Kostas
   family: Margellos
 - given: Antonis
@@ -31,6 +33,7 @@ description: |
 
   Volume Edited by:
     Alessandro Abate
+    Mark Cannon
     Kostas Margellos
     Antonis Papachristodoulou
 
