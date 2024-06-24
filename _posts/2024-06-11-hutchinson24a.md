@@ -22,7 +22,7 @@ tex_title: "Safe online convex optimization with multi-point feedback"
 firstpage: 168
 lastpage: 180
 page: 168-180
-order: 1
+order: 168
 cycles: false
 bibtex_author: Hutchinson, Spencer and Alizadeh, Mahnoosh
 author:
