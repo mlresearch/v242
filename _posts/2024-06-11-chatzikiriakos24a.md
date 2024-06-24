@@ -30,7 +30,7 @@ tex_title: "Learning soft constrained {MPC} value functions: {E}fficient {MPC} d
 firstpage: 387
 lastpage: 398
 page: 387-398
-order: 1
+order: 387
 cycles: false
 bibtex_author: Chatzikiriakos, Nicolas and Wabersich, Kim Peter and Berkel, Felix
   and Pauli, Patricia and Iannelli, Andrea
