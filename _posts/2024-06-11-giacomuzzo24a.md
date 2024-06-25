@@ -23,7 +23,7 @@ tex_title: "{L}agrangian inspired polynomial estimator for black-box learning an
 firstpage: 1292
 lastpage: 1304
 page: 1292-1304
-order: 1
+order: 1292
 cycles: false
 bibtex_author: Giacomuzzo, Giulio and Cescon, Riccardo and Romeres, Diego and Carli,
   Ruggero and Libera, Alberto Dalla

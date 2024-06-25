@@ -22,7 +22,7 @@ tex_title: "Minimax dual control with finite-dimensional information state"
 firstpage: 299
 lastpage: 311
 page: 299-311
-order: 1
+order: 299
 cycles: false
 bibtex_author: Kjellqvist, Olle
 author:

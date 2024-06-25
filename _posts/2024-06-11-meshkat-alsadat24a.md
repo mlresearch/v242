@@ -32,7 +32,7 @@ tex_title: "Distributed on-the-fly control of multi-agent systems with unknown d
 firstpage: 1440
 lastpage: 1451
 page: 1440-1451
-order: 1
+order: 1440
 cycles: false
 bibtex_author: Meshkat Alsadat, Shayan and Baharisangari, Nasim and Xu, Zhe
 author:

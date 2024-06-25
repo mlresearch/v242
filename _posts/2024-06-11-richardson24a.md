@@ -24,7 +24,7 @@ tex_title: "Strengthened stability analysis of discrete-time {L}urie systems inv
 firstpage: 209
 lastpage: 221
 page: 209-221
-order: 1
+order: 209
 cycles: false
 bibtex_author: Richardson, Carl and Turner, Matthew and Gunn, Steve and Drummond,
   Ross

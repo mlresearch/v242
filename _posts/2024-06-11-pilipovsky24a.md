@@ -24,7 +24,7 @@ tex_title: "Data-driven robust covariance control for uncertain linear systems"
 firstpage: 667
 lastpage: 678
 page: 667-678
-order: 1
+order: 667
 cycles: false
 bibtex_author: Pilipovsky, Joshua and Tsiotras, Panagiotis
 author:

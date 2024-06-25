@@ -20,7 +20,7 @@ tex_title: "Increasing information for model predictive control with semi-{M}ark
 firstpage: 1400
 lastpage: 1414
 page: 1400-1414
-order: 1
+order: 1400
 cycles: false
 bibtex_author: Hosseinkhan Boucher, R\'{e}my and Douka, Stella and Semeraro, Onofrio
   and Mathelin, Lionel

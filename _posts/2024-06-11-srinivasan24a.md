@@ -25,7 +25,7 @@ tex_title: "{SpOiLer}: {O}ffline reinforcement learning using scaled penalties"
 firstpage: 825
 lastpage: 838
 page: 825-838
-order: 1
+order: 825
 cycles: false
 bibtex_author: Srinivasan, Padmanaba and Knottenbelt, William J.
 author:

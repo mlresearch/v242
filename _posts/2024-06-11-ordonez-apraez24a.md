@@ -23,7 +23,7 @@ tex_title: "Dynamics harmonic analysis of robotic systems: {A}pplication in data
 firstpage: 1318
 lastpage: 1329
 page: 1318-1329
-order: 1
+order: 1318
 cycles: false
 bibtex_author: Ordo\~{n}ez-Apraez, Daniel and Kostic, Vladimir and Turrisi, Giulio
   and Novelli, Pietro and Mastalli, Carlos and Semini, Claudio and Pontil, Massimilano
